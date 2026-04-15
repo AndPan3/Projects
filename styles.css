@@ -1,7 +1,8 @@
 body{
     background-color:#1a2b1f;
     color:#dce3c1;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
 }
 .Invisiblelink{
     text-decoration:underline;
@@ -10,4 +11,17 @@ body{
 }
 img{
     height: 300px;
+    display: block;
+    margin: auto;
+}
+div{
+    margin-top:50px;
+    margin-left:25%;
+    margin-right:25%;
+    border: 5px solid #0e1711;
+}
+.introduction{
+    margin-left:25%;
+    margin-right:25%;
+    font-size:large;
 }
