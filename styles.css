@@ -13,12 +13,14 @@ img{
     height: 300px;
     display: block;
     margin: auto;
+    border: 5px solid #0e1711;
+    box-shadow:-10px 15px 10px #0e1711;
 }
 div{
     margin-top:50px;
     margin-left:25%;
     margin-right:25%;
-    border: 5px solid #0e1711;
+    border: 7px solid #0e1711;
 }
 .introduction{
     margin-left:25%;
